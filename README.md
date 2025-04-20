@@ -32,16 +32,14 @@ An interactive Excel dashboard to analyze pizza sales performance using advanced
 
 ## 📎 Insights Gained
 
-- Most revenue generated on weekends, especially Friday evenings.
-- Classic and Large size pizzas contribute the most to sales.
+- Most revenue is generated on weekends, especially Friday evenings.
+- Classic and large sized pizzas contribute the most to sales.
 - The Classic Deluxe Pizza is the top seller, while the Brie Carre Pizza is the least sold.
 
 ## 🚀 How to Use
 
 1. Download the Excel file from the `excel_dashboard/` folder.
 2. Open with Excel (2016+ recommended for full compatibility).
-3. Interact with slicers and timeline to explore data dynamically.
+3. Interact with slicers and the timeline to explore data dynamically.
 
-## 📃 License
 
-This project is licensed under the MIT License.
