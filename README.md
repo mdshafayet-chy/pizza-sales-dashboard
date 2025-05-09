@@ -38,7 +38,7 @@ An interactive Excel dashboard to analyze pizza sales performance using advanced
 
 ## 🚀 How to Use
 
-1. Download the Excel file from the `excel_dashboard/` folder.
+1. Download or Clone the Excel file from the `excel_dashboard/` folder.
 2. Open with Excel (2016+ recommended for full compatibility).
 3. Interact with slicers and the timeline to explore data dynamically.
 
